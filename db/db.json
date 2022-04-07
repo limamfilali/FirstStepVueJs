@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "nom": "limam",
+      "prenom": "filali",
+      "email": "limam@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "nom": "lll",
+      "prenom": "lll",
+      "email": "elfilalilimam@gmail.com",
+      "password": "kkk",
+      "id": 2
+    },
+    {
+      "nom": "ahmed",
+      "prenom": "limam",
+      "email": "limam@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "nom": "limam",
+      "prenom": "agh",
+      "email": "ahl@gmail.com",
+      "password": "milm123",
+      "id": 4
+    },
+    {
+      "nom": "limam",
+      "prenom": "filali",
+      "email": "filali@gmail.com",
+      "password": "limam",
+      "id": 5
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "pizzaHouse",
+      "contact": 11111,
+      "city": "casablanca"
+    },
+    {
+      "id": 2,
+      "name": "Glovo",
+      "contact": 22222,
+      "city": "casablanca,Maarif"
+    },
+    {
+      "id": 3,
+      "name": "Mcdonalds",
+      "contact": 3333,
+      "city": "casablanca,ain  DIAB"
+    },
+    {
+      "name": "KFC",
+      "contact": "6666",
+      "city": "MARRAKECH",
+      "id": 4
+    },
+    {
+      "name": "délicia resto",
+      "contact": "654546",
+      "city": "agadir",
+      "id": 5
+    },
+    {
+      "name": "hahah",
+      "contact": "224343",
+      "city": "agadir",
+      "id": 6
+    }
+  ]
+}
